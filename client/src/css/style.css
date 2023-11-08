@@ -125,6 +125,10 @@ h1 {
   color: #d9e9e8;
 }
 
+.hidden {
+  display: none;
+}
+
 .btn.btn-primary:hover {
   background-color: #57779a;
 }
